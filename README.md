@@ -1,16 +1,18 @@
-## Hi there 👋
+## INTRODUÇÃO 👋
 
-<!--
-**PabloMatos08/PabloMatos08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é **Pablo Leonardo Matos Ferreira**
 
-Here are some ideas to get you started:
+•Estou estudando na [Alura](https://www.alura.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•Estou aprendendo a utilizar a linguagem JavaScript
+
+•Esta conta foi criada aqui no Github com o intuito de me organizar e compartilhar meus projetos desenvolvidos
+
+## VOCÊ PODE ENTRAR EM CONTATO COMIGO 📭
+
+pablolmferreira.18112008@edu.sme.prefeitura.sp.gov.br
+
+pablomatos.pc.win10@gmail.com (meu pc 🖥️)
+
+![bob-esponja-joinha](https://github.com/user-attachments/assets/bddd421c-661f-49fe-894d-f65afe0a1d9b)
+
